@@ -1,1 +1,1 @@
-# Student-database design
+# Student database design
